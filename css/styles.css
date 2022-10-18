@@ -6,7 +6,12 @@ body {
 
     }
 
-
+    .Dinossaur {
+        width: 600px;
+        border-radius: 25px;
+        box-shadow: 20px 13px 15px 12px rgb(7 52 135);
+        
+    }
 
     h1 {
         color: black;
@@ -17,7 +22,7 @@ body {
 
     p {
         color: blueviolet;
-        font-size: 40px;
-        font-weight: lighter;
-        font-family: 'Oswald', sans-serif;
+        font-size: 25px;
+        font-weight: 400;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
