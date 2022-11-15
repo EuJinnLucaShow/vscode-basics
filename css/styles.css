@@ -1,29 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
 body {
-    background-color: rgb(166, 158, 126);
-    color: rgb(218, 80, 158);
+  background-color: rgb(166, 158, 126);
+  color: rgb(218, 80, 158);
+}
 
-    }
+.Dinossaur {
+  width: 600px;
+  border-radius: 25px;
+  box-shadow: 20px 13px 15px 12px rgb(7 52 135);
+}
 
-    .Dinossaur {
-        width: 600px;
-        border-radius: 25px;
-        box-shadow: 20px 13px 15px 12px rgb(7 52 135);
-        
-        
-    }
+h1 {
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+}
 
-    h1 {
-        color: black;
-        font-size: 50px;
-        font-weight: bold;
-        font-family: 'Oswald', sans-serif;
-    }
-
-    p {
-        color: blueviolet;
-        font-size: 25px;
-        font-weight: 400;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    }
+p {
+  color: blueviolet;
+  font-size: 25px;
+  font-weight: 400;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
